@@ -163,7 +163,7 @@
       #define LCD_PINS_ENABLE                 16
       #define LCD_PINS_D4                     11
       #define KILL_PIN                        10
-      #define BEEPER_PIN                      27
+      #define BEEPER_PIN                      -1
 
     #elif IS_U8GLIB_ST7920                  // SPI GLCD 12864 ST7920 ( like [www.digole.com] ) For Melzi V2.0
 
